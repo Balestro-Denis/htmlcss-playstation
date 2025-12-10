@@ -36,3 +36,17 @@
 .img-fluid {
   border-radius: 20px;
 }
+
+.description-img {
+  text-align: center;
+}
+
+#jumbotron2 > .container {
+  min-height: 60vh;
+}
+
+#jumbotron2 {
+  background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+  background-size: cover;
+  background-position: center;
+}
